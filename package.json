@@ -2,13 +2,13 @@
   "name": "react-recipes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nnannam.github.io/spa-app/",
+  "homepage": "https://nnannam.github.io/recipe-app/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "deploy": "gh-pages -d .next/static -t true",
+    "deploy": "gh-pages -d build",
     "predeploy": "npm run build"
   },
   "dependencies": {
