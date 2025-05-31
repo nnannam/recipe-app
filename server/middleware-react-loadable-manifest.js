@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app/page.jsx -> ../components/category/CategoryList\":{\"id\":\"app/page.jsx -> ../components/category/CategoryList\",\"files\":[\"static/chunks/_app-pages-browser_src_components_category_CategoryList_jsx.js\"]}}"
